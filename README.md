@@ -58,3 +58,10 @@ Farid Farahani
 Python Developer | Web Developer
 
 Website: https://faridfarahani.ir
+
+
+## Example
+
+Before: mixed files are stored together in one folder.
+
+After: files are automatically organized into category folders such as Images, Documents, Spreadsheets, and Code.
