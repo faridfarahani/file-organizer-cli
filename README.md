@@ -25,6 +25,12 @@ It supports dry-run mode, collision-safe renaming, and an undo log so changes ca
 - Code
 - Other
 
+## Installation
+
+Requires Python 3.11 or newer. Install from the project root:
+
+    python -m pip install .
+
 ## Run
 
 Preview changes first:
